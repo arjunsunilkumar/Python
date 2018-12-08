@@ -5,3 +5,5 @@ This is limited to all programs done during the lab hours using Python programmi
 2.Printing prime numbers in a given range
 3.Pattern Printing
 4.Basic Calculator
+5.Checking if a string was a palindrome 
+6.Counting the consonants, words, question marks, digits and vowels in a string
